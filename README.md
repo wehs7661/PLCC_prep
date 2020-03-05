@@ -1,1 +1,2 @@
 # PLCC_prep
+This is a repository for backing up the simulation input files of different peptides complexed with PLCC for advanced sampling. System of interest include binding complexes such as PLCC/PLCG1-pep, PLCC/IR-pep and PLCC/ErbB2-pep. Theses input files for advanced sampling were the output files of short vanilla simulations with input files prepared by the procedure illustrated in the tutorial: [Preparation of the Inputs Files for Advanced Sampling Simulations - Part 1](https://hackmd.io/@WeiTseHsu/BJF0tBizU).
