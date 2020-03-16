@@ -51,14 +51,14 @@ tcoupl                   = v-rescale
 nsttcouple               = 1
 tc_grps                  = System
 tau_t                    = 0.5
-ref_t                    = 293
+ref_t                    = 298
 
 ; Pressure coupling is on for NPT
 pcoupl                   = no
 
 ; Velocity generation
 gen_vel                  = yes
-gen-temp               = 293
+gen-temp               = 298
 gen-seed               = 6722267; need to randomize the seed each time.
 
 ; options for bonds
